@@ -1,7 +1,13 @@
 # Mask-Guided-Cycle-GAN-for-Specular-Highlight-Removal
 
 We convert the highlight removal problem to image-to-image translation by using cycle-consistent adversarial network (Cycle-GAN). The network can remove the specular highlight from natural images.
-![](https://github.com/hootoon/Mask-Guided-Cycle-GAN-for-Specular-Highlight-Removal/image/network.png)
+![](https://github.com/hootoon/Mask-Guided-Cycle-GAN-for-Specular-Highlight-Removal/blob/main/image/network.png)
+
+We use a highlight mask estimated via the incorporation of the NMF method to guide the network.
+![](https://github.com/hootoon/Mask-Guided-Cycle-GAN-for-Specular-Highlight-Removal/blob/main/image/NMF.png)
+
+Several examples of our result can be seen as follows.
+![](https://github.com/hootoon/Mask-Guided-Cycle-GAN-for-Specular-Highlight-Removal/blob/main/image/result.png)
 
 ## Dependencies
 
