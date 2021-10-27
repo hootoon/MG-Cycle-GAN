@@ -39,7 +39,8 @@ Several examples of our result can be seen as follows.
   ```
   @inproceedings{meka2018lime,
   title={Lime: Live intrinsic material estimation},
-  author={Meka, Abhimitra and Maximov, Maxim and Zollhoefer, Michael and Chatterjee, Avishek and Seidel, Hans-Peter and Richardt, Christian and Theobalt, Christian},
+  author={Meka, Abhimitra and Maximov, Maxim and Zollhoefer, Michael and Chatterjee, Avishek and Seidel, 
+  Hans-Peter and Richardt, Christian and Theobalt, Christian},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={6315--6324},
   year={2018}
