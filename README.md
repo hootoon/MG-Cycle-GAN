@@ -52,9 +52,9 @@ Several examples of our result can be seen as follows.
 
 train
 
-1. set the paths of the dataset in `train_l.py`
+1. set the paths of the dataset in `train_l.py`, in line 44   `opt.dataroot = 'SHIQ_data'`. The `SHIQ_data` is the file path of the dataset.
 2. run `train_l.py`
-3. set the paths of the saved models achieved from step 2 `(netG_A2B.pth,netG_B2A.pth)` and the dataset in `train_l.py`
+3. set the paths of the saved models achieved from step 2 `(netG_A2B.pth,netG_B2A.pth)`, in line54 ` netG_A2B = Generator_H2F.from_file('model/netG_A2B.pth')` and the dataset in `train.py`, which is similar to `train_l.py`.
 4. run `train.py`
 
 test
