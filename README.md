@@ -62,3 +62,5 @@ test
 1. set the paths of the saved models achieved from step 4 `(netG_A2B.pth)` and the test dataset in `test.py`
 2. run `test.py`
 
+## Article
+The article link is： https://www.sciencedirect.com/science/article/abs/pii/S0167865522002082
