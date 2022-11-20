@@ -54,7 +54,7 @@ train
 
 1. set the paths of the dataset in `train_l.py`
 2. run `train_l.py`
-3. set the paths of the saved models achieved from step 2 `(netG_A2B.pth,netG_B2A.pth)` and the dataset in `train_aistd.py`
+3. set the paths of the saved models achieved from step 2 `(netG_A2B.pth,netG_B2A.pth)` and the dataset in `train_l.py`
 4. run `train.py`
 
 test
