@@ -64,3 +64,10 @@ test
 
 ## Article
 The article link is： https://www.sciencedirect.com/science/article/abs/pii/S0167865522002082
+
+## 相关解答
+(Due to already working, the project is rarely maintained and many questions cannot be answered in time, sorry for that.)
+The simple way to set up the data is to put the downloaded datasets directly in the network directory. The function to read the path can be seen in line 17 of the `datasets.py` file.
+
+（由于已经工作，项目很少维护，很多问题无法及时解答，深感歉意。）
+设置数据简单的方法是直接把下载来的数据集放在network目录下，读取路径的函数可以在 `datasets.py` 文件中第17行看到。
